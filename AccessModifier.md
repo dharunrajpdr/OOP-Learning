@@ -1,18 +1,5 @@
-# 📘 Java OOPs – 14. Access Modifiers 🔐
+# 📘 Java OOPs –  Access Modifiers 🔐
 
-## 🎯 What You Will Learn
-
-- What are Access Modifiers?
-- `public`
-- `private`
-- `protected`
-- Default / package-private
-- Access from same class/package/subclass/different package
-- Comparison table
-- Important interview questions
-- Easy memory trick
-
----
 
 # 1️⃣ What are Access Modifiers?
 
