@@ -1,19 +1,5 @@
-# 📘 Java OOPs – 17. Association 🤝
+# 📘 Java OOPs –  Association 🤝
 
-## 🎯 What You Will Learn
-
-- What is Association?
-- Real-world example
-- Association in Java
-- Types of Association
-- One-to-One
-- One-to-Many
-- Many-to-Many
-- Association vs Inheritance
-- Association vs Aggregation vs Composition
-- Interview questions
-
----
 
 # 1️⃣ What is Association?
 
