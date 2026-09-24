@@ -1,17 +1,5 @@
-# 📘 Java OOPs – 16. `final` Keyword 🔒
+# 📘 Java OOPs – `final` Keyword 🔒
 
-## 🎯 What You Will Learn
-
-- What is `final`?
-- `final` variable
-- `final` method
-- `final` class
-- `final` reference
-- `final` vs `finally` vs `finalize`
-- Important interview questions
-- Easy memory tricks
-
----
 
 # 1️⃣ What is `final`?
 
