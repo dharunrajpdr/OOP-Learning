@@ -1,18 +1,4 @@
-# 📘 Java OOPs – 15. `static` Keyword ⚡
-
-## 🎯 What You Will Learn
-
-- What is `static`?
-- Why do we use `static`?
-- Static variables
-- Static methods
-- Static blocks
-- Static vs instance members
-- Important rules
-- Interview questions
-- Easy memory tricks
-
----
+# 📘 Java OOPs –  `static` Keyword ⚡
 
 # 1️⃣ What is `static`?
 
